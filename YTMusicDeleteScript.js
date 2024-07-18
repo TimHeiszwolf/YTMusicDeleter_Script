@@ -12,7 +12,7 @@
 // If the script still is not working. Leave a comment under the YouTube video tutorial and then I will reply with help or fix the script.
 
 // Settings for user
-var searchWord = "verwijder";//"delete"// Set this variable to the word(s) used by Youtube Music in the delete button. In English this is "delete" but in Dutch it would be "verwijder".
+var searchWord = "delete";// Set this variable to the word(s) used by Youtube Music in the delete button. In English this is "delete" but in Dutch it would be "verwijder".
 var intervalBetweenSteps = 400;// The time between each steps in miliseconds. The total time per album will be 5 times this duration. If you have a slow computer or slow internet you might want to make this value higher to give each step more time, if you have a fast computer and internet you can make it smaller to delete the songs faster.
 var albumsOrSongs = 0// If one is deleting the songs one by one (recommended) keep this at 0, else if one is deleting from the album page set this to 1.
 

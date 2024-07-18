@@ -2,7 +2,7 @@
 // 1. Go to your uploaded songs.
 // 2. Open your browsers console.
 // 3. Paste in this script and press enter.
-// 4. Wait until all songs are deleted. This can be in the background while you other things.
+// 4. Wait until all songs are deleted. This can be in the background while you do other things.
 
 // If this is not working:
 // Some browsers don't allow pasting JavaScript into their console. If this is the case disable that safety feature or use a different browser.

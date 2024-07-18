@@ -58,7 +58,7 @@ function deleteAlbumsWithOpening()
             jQuery("#main").children().eq(4).children().eq(2).children().children().eq(0).click();
 			console.log("Third step finished");
             clearInterval(stepThreeTimer);
-			console.log("Album deleted.")
+			console.log("Song deleted.")
         }
     }
 
